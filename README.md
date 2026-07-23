@@ -99,7 +99,23 @@ going full-stack when a project needs it.
 
 ---
 
-<!-- ============ GITHUB STATS ============ -->
+<!-- ============ CURRENTLY BUILDING (self-hosted, 永不裂图) ============ -->
+<div align="center">
+  <img width="100%" src="./stats.svg" alt="Currently building — Systems & APIs · Infrastructure · Distributed"/>
+</div>
+
+<!--
+  ┌───────────────────────────────────────────────────────────────────────┐
+  │  实时 GitHub Stats 卡（暂时注释掉）                                       │
+  │                                                                         │
+  │  这些卡依赖公共第三方服务，有两个已知问题：                                 │
+  │   1. github-readme-stats / trophy 的公共实例经常被限流 → 会裂图            │
+  │   2. 你的 profile 目前是私密的，贡献活动不公开 → 数字会显示 0              │
+  │                                                                         │
+  │  等你把 profile 改成公开、且有公开贡献后，删掉这段注释符即可启用：          │
+  │  （建议同时把 github-readme-stats 自建到你自己的 Vercel 实例以彻底免限流）  │
+  └───────────────────────────────────────────────────────────────────────┘
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
@@ -121,10 +137,11 @@ going full-stack when a project needs it.
   <img src="https://github-profile-trophy.vercel.app/?username=calvinsyy&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="95%"/>
 </div>
 
-<!-- ============ ACTIVITY GRAPH ============ -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=calvinsyy&theme=react-dark&bg_color=0D1117&color=e6edf3&line=ffffff&point=909090&hide_border=true&area=true" width="95%"/>
 </div>
+
+-->
 
 ---
 
