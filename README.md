@@ -6,7 +6,8 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=CALVIN%20SZE&fontSize=56&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20·%20Systems%20%26%20Infrastructure%20·%20NYC&descSize=13&descAlignY=54&animation=fadeIn"/>
+<!-- 自托管 banner：把 header.svg 放到仓库根目录即可，不依赖任何第三方服务 -->
+<img width="100%" src="./header.svg" alt="Calvin Sze — Software Engineer · Systems & Infrastructure · NYC"/>
 
 <a href="https://www.calvinsze.com">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=640&lines=Systems+%2B+APIs+%2B+Infrastructure;Build.+Ship.+Iterate.;Distributed+%7C+Low-latency+%7C+Resilient;Full-stack+when+it+counts" alt="Typing SVG" />
@@ -129,6 +130,6 @@ going full-stack when a project needs it.
 
 <!-- ============ FOOTER ============ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
+  <img width="100%" src="./footer.svg" alt=""/>
   <sub>📫 <a href="mailto:hey@calvinsze.com">hey@calvinsze.com</a> &nbsp;·&nbsp; 🌐 <a href="https://www.calvinsze.com">calvinsze.com</a> &nbsp;·&nbsp; 🐙 <a href="https://github.com/calvinsyy">github/calvinsyy</a></sub>
 </div>

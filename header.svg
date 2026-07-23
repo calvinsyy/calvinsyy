@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" fill="none" role="img" aria-label="Calvin Sze — Software Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#1f2933"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <clipPath id="round"><rect x="0" y="0" width="1200" height="200" rx="12"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#round)">
+    <!-- background -->
+    <rect width="1200" height="200" fill="url(#bg)"/>
+
+    <!-- animated waves (bottom) -->
+    <g opacity="0.9">
+      <path fill="url(#wave)" opacity="0.55" d="M0,140 C150,110 300,170 450,150 C600,130 750,90 900,120 C1050,150 1150,140 1200,130 L1200,200 L0,200 Z">
+        <animateTransform attributeName="transform" type="translate" values="0 0; -60 6; 0 0" dur="7s" repeatCount="indefinite"/>
+      </path>
+      <path fill="url(#wave)" opacity="0.8" d="M0,160 C150,140 320,185 480,165 C640,145 780,120 940,150 C1080,175 1160,165 1200,158 L1200,200 L0,200 Z">
+        <animateTransform attributeName="transform" type="translate" values="0 0; 50 -4; 0 0" dur="9s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- decorative dots -->
+    <g fill="#c9d1d9" opacity="0.5">
+      <circle cx="90" cy="52" r="2"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="1120" cy="70" r="2"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="1050" cy="40" r="1.6"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="5s" repeatCount="indefinite"/></circle>
+      <circle cx="150" cy="90" r="1.6"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="3.5s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- title -->
+    <text x="600" y="92" text-anchor="middle"
+          font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace"
+          font-size="52" font-weight="700" letter-spacing="6" fill="#ffffff">CALVIN SZE</text>
+
+    <!-- subtitle -->
+    <text x="600" y="126" text-anchor="middle"
+          font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace"
+          font-size="14" letter-spacing="3" fill="#b0b3c2">Software Engineer &#183; Systems &amp; Infrastructure &#183; NYC</text>
+  </g>
+</svg>
