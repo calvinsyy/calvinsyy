@@ -20,7 +20,7 @@
 <a href="mailto:hey@calvinsze.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
 <a href="https://github.com/calvinsyy"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 <!-- TODO: 把下面的 # 换成你的 LinkedIn 主页链接 -->
-<a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/calvinsze/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
