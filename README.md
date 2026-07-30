@@ -7,9 +7,9 @@
 <div align="center">
 
 <!-- 自托管 banner：把 header.svg 放到仓库根目录即可，不依赖任何第三方服务 -->
-<img width="100%" src="./header.svg" alt="Calvin Sze — Software Engineer · Systems & Infrastructure · NYC"/>
+<img width="100%" src="./header.svg" alt="CALVIN SZE — Software Engineer · NYC"/>
 
-<a href="https://www.calvinsze.com">
+<a href="https://www.calv.ai">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=640&lines=Systems+%2B+APIs+%2B+Infrastructure;Build.+Ship.+Iterate.;Distributed+%7C+Low-latency+%7C+Resilient;Full-stack+when+it+counts" alt="Typing SVG" />
 </a>
 
@@ -43,7 +43,6 @@ going full-stack when a project needs it.
 <p align="center">
 🔭 &nbsp;Building &amp; shipping systems, APIs, and infra &nbsp;•&nbsp;
 🌱 &nbsp;Always leveling up on distributed systems &nbsp;•&nbsp;
-💬 &nbsp;Ask me about backend, infra, or low-latency design
 </p>
 
 ---
